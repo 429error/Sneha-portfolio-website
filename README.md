@@ -1,4 +1,4 @@
-# Personal portfolio website
+# Sneha's Personal Portfolio Website
 
 *Automatically synced with your [v0.dev](https://v0.dev) deployments*
 
@@ -14,8 +14,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 The portfolio can be viewed here:
 
-**[https://vercel.com/ethanesim15-8989s-projects/v0-personal-portfolio-website](https://sneharaj-portfolio-website.vercel.app
-)**
+**[https://vercel.com/ethanesim15-8989s-projects/v0-personal-portfolio-website](https://sneharaj-portfolio-website.vercel.app)**
 
 ## Build your app
 
