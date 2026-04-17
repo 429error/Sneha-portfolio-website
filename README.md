@@ -12,7 +12,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 ## Deployment
 
-Your project is live at:
+The portfolio can be viewed here:
 
 **[https://vercel.com/ethanesim15-8989s-projects/v0-personal-portfolio-website](https://sneharaj-portfolio-website.vercel.app
 )**
